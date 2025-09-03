@@ -1,4 +1,4 @@
 {
-  "notionToken": "",
+  "notionToken": "%NOTION_API_KEY%",
   "verbose": false
 }
